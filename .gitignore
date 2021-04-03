@@ -70,3 +70,6 @@ obj/Debug/Vidly.dll
 obj/Debug/Vidly.pdb
 obj/Debug/build.force
 obj/Debug/Vidly.csprojAssemblyReference.cache
+*.cache
+.vs/Vidly/v16/.suo
+obj/Debug/build.force
