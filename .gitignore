@@ -76,3 +76,5 @@ obj/Debug/build.force
 .vs/Vidly/v16/.suo
 obj/Debug/Vidly.csprojAssemblyReference.cache
 .vs/Vidly/config/applicationhost.config
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
