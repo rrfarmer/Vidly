@@ -7,7 +7,7 @@ using Vidly.Models;
 
 namespace Vidly.Controllers
 {
-    public class MovieController : Controller
+    public class MoviesController : Controller
     {
         // GET: Movie/Random
         public ActionResult Random()
