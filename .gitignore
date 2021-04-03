@@ -78,3 +78,4 @@ obj/Debug/Vidly.csprojAssemblyReference.cache
 .vs/Vidly/config/applicationhost.config
 obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
