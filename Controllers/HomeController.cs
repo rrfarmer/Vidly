@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Data.Entity;
+
+public class MyDbContext : DbContext
+{
+    public MyDbContext()
+    {
+    }
+}
 
 namespace Vidly.Controllers
 {
