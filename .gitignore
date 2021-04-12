@@ -79,3 +79,5 @@ obj/Debug/Vidly.csprojAssemblyReference.cache
 obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
 obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+*.suo
+*.resources

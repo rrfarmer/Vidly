@@ -52,3 +52,12 @@ C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\Microsoft.Owin.Security.Twit
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeName.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeNames.resources
