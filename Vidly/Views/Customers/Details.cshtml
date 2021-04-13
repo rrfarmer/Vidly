@@ -6,3 +6,12 @@
 }
 
 <h2>@Model.Name</h2>
+
+<ul>
+    <li>Membership Type: @Model.MembershipType.MembershipName</li>
+    
+        @if (Model.Bithdate.HasValue)
+        {
+            <li>Birthdate: @Model.Bithdate.Value.Date.ToShortDateString()</li>
+        }
+</ul>

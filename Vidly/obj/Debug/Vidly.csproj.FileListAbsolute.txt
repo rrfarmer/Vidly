@@ -61,3 +61,4 @@ C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.Popul
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeName.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeNames.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.CustomerBirthday.resources
