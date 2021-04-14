@@ -198,6 +198,18 @@
     <Compile Include="Migrations\202104130017586_CustomerBirthday.Designer.cs">
       <DependentUpon>202104130017586_CustomerBirthday.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202104140347595_PopulateGenres.cs" />
+    <Compile Include="Migrations\202104140347595_PopulateGenres.Designer.cs">
+      <DependentUpon>202104140347595_PopulateGenres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104140351307_PopulateGenresForReal.cs" />
+    <Compile Include="Migrations\202104140351307_PopulateGenresForReal.Designer.cs">
+      <DependentUpon>202104140351307_PopulateGenresForReal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104140352253_PopulateDummyMovies.cs" />
+    <Compile Include="Migrations\202104140352253_PopulateDummyMovies.Designer.cs">
+      <DependentUpon>202104140352253_PopulateDummyMovies.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -309,6 +321,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202104130017586_CustomerBirthday.resx">
       <DependentUpon>202104130017586_CustomerBirthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104140347595_PopulateGenres.resx">
+      <DependentUpon>202104140347595_PopulateGenres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104140351307_PopulateGenresForReal.resx">
+      <DependentUpon>202104140351307_PopulateGenresForReal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104140352253_PopulateDummyMovies.resx">
+      <DependentUpon>202104140352253_PopulateDummyMovies.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -62,3 +62,6 @@ C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.Apply
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeName.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeNames.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.CustomerBirthday.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenresForReal.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateDummyMovies.resources
