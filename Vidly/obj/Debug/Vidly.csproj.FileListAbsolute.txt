@@ -65,3 +65,5 @@ C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.Custo
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenresForReal.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateDummyMovies.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.RollbackGenresAttributes.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingGenreToMovie.resources

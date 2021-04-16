@@ -21,6 +21,7 @@ namespace Vidly.Controllers
             _context.Dispose();
         }
 
+        // GET: Customers/CustomerForm
         public ActionResult CustomerForm()
         {
             var membershipTypes = _context.MembershipTypes.ToList();

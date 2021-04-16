@@ -24,22 +24,22 @@ namespace Vidly.Controllers
         // GET: Movies
         public ActionResult Index()
         {
-            var movies = _context.Movies.Include(m => m.Genre).ToList();
-
-            return View(movies);
+            //var movies = _context.Movies.Include(m => m.Genre).ToList();
+            
+            //return View(movies);
+            return View();
         }
 
-        // GET: Movies/Details
-        public ActionResult Details(int id)
+        // GET: Movies/MovieForm
+        public ActionResult MovieForm(int id)
         {
-            var movie = _context.Movies
-                .Include(m => m.Genre)
-                .SingleOrDefault(c => c.Id == id);
+            var genres = _context.Genres.ToList();
+            var viewModel = new MovieFormViewModel
+            {
+                Genres = genres
+            };
 
-            if (movie == null)
-                return HttpNotFound();
-
-            return View(movie);
+            return View("MovieForm", viewModel);
         }
 
         // GET: Movies/Random

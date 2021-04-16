@@ -210,6 +210,14 @@
     <Compile Include="Migrations\202104140352253_PopulateDummyMovies.Designer.cs">
       <DependentUpon>202104140352253_PopulateDummyMovies.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202104162043536_RollbackGenresAttributes.cs" />
+    <Compile Include="Migrations\202104162043536_RollbackGenresAttributes.Designer.cs">
+      <DependentUpon>202104162043536_RollbackGenresAttributes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104162045432_AddingGenreToMovie.cs" />
+    <Compile Include="Migrations\202104162045432_AddingGenreToMovie.Designer.cs">
+      <DependentUpon>202104162045432_AddingGenreToMovie.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -223,6 +231,7 @@
     <Compile Include="ViewModels\CustomerDetailViewModel.cs" />
     <Compile Include="ViewModels\CustomersViewModel.cs" />
     <Compile Include="ViewModels\CustomerFormViewModel.cs" />
+    <Compile Include="ViewModels\MovieFormViewModel.cs" />
     <Compile Include="ViewModels\RandomMovieViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -287,7 +296,7 @@
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\Movies\Random.cshtml" />
     <Content Include="Views\Shared\_NavBar.cshtml" />
-    <Content Include="Views\Movies\Details.cshtml" />
+    <Content Include="Views\Movies\MovieForm.cshtml" />
     <Content Include="Views\Customers\CustomerForm.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -333,6 +342,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202104140352253_PopulateDummyMovies.resx">
       <DependentUpon>202104140352253_PopulateDummyMovies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104162043536_RollbackGenresAttributes.resx">
+      <DependentUpon>202104162043536_RollbackGenresAttributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104162045432_AddingGenreToMovie.resx">
+      <DependentUpon>202104162045432_AddingGenreToMovie.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
