@@ -166,9 +166,25 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202104162126220_Initial.cs" />
-    <Compile Include="Migrations\202104162126220_Initial.Designer.cs">
-      <DependentUpon>202104162126220_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\202104162152023_Initial.cs" />
+    <Compile Include="Migrations\202104162152023_Initial.Designer.cs">
+      <DependentUpon>202104162152023_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104162157458_PopulateMembershipTypes.cs" />
+    <Compile Include="Migrations\202104162157458_PopulateMembershipTypes.Designer.cs">
+      <DependentUpon>202104162157458_PopulateMembershipTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104162158199_PopulateGenres.cs" />
+    <Compile Include="Migrations\202104162158199_PopulateGenres.Designer.cs">
+      <DependentUpon>202104162158199_PopulateGenres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104162158443_PopulateMovies.cs" />
+    <Compile Include="Migrations\202104162158443_PopulateMovies.Designer.cs">
+      <DependentUpon>202104162158443_PopulateMovies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104162200333_PopulateCustomers.cs" />
+    <Compile Include="Migrations\202104162200333_PopulateCustomers.Designer.cs">
+      <DependentUpon>202104162200333_PopulateCustomers.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -250,6 +266,7 @@
     <Content Include="Views\Shared\_NavBar.cshtml" />
     <Content Include="Views\Movies\MovieForm.cshtml" />
     <Content Include="Views\Customers\CustomerForm.cshtml" />
+    <Content Include="Views\Movies\New.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -262,8 +279,20 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202104162126220_Initial.resx">
-      <DependentUpon>202104162126220_Initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202104162152023_Initial.resx">
+      <DependentUpon>202104162152023_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104162157458_PopulateMembershipTypes.resx">
+      <DependentUpon>202104162157458_PopulateMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104162158199_PopulateGenres.resx">
+      <DependentUpon>202104162158199_PopulateGenres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104162158443_PopulateMovies.resx">
+      <DependentUpon>202104162158443_PopulateMovies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104162200333_PopulateCustomers.resx">
+      <DependentUpon>202104162200333_PopulateCustomers.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

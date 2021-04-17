@@ -15,7 +15,7 @@ namespace Vidly.Migrations
                         Name = c.String(nullable: false, maxLength: 255),
                         IsSubscribedToNewsletter = c.Boolean(nullable: false),
                         MembershipTypeId = c.Byte(nullable: false),
-                        Bithdate = c.DateTime(),
+                        Birthdate = c.DateTime(),
                     })
                 .PrimaryKey(t => t.Id)
                 .ForeignKey("dbo.MembershipTypes", t => t.MembershipTypeId, cascadeDelete: true)
