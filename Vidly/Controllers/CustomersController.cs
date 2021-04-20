@@ -33,6 +33,7 @@ namespace Vidly.Controllers
             return View("CustomerForm", viewModel);
         }
 
+        // GET: Customers/New
         public ActionResult New()
         {
             var membershipTypes = _context.MembershipTypes.ToList();
@@ -46,6 +47,7 @@ namespace Vidly.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Save(Customer customer)
         {
 
