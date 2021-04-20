@@ -59,3 +59,9 @@ C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.Popul
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMovies.resources
 C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateCustomers.resources
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\VM\Synology2\SynologyDrive\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
