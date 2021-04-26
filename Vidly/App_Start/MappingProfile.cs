@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using AutoMapper;
+﻿using AutoMapper;
 using Vidly.Dtos;
 using Vidly.Models;
 
@@ -12,15 +8,17 @@ namespace Vidly.App_Start
     {
         public MappingProfile()
         {
-            // Mappers for Customer
-            Mapper.CreateMap<Customer, CustomerDto>()
+            // Domain to Dto
+            Mapper.CreateMap<Customer, CustomerDto>();
+            Mapper.CreateMap<Movie, MovieDto>();
+
+
+            // Dto to Domain
+            Mapper.CreateMap<CustomerDto, Customer>()
                 .ForMember(c => c.Id, opt => opt.Ignore());
-            Mapper.CreateMap<CustomerDto, Customer>();
-            
-            // Mappers for Movie
-            Mapper.CreateMap<Movie, MovieDto>()
-                .ForMember(m => m.Id, opt => opt.Ignore());
-            Mapper.CreateMap<MovieDto, Movie>();
+
+            Mapper.CreateMap<MovieDto, Movie>()
+                .ForMember(c => c.Id, opt => opt.Ignore());
         }
     }
 }
