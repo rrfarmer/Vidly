@@ -81,3 +81,5 @@ obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
 *.suo
 *.resources
+Vidly/App_Data/aspnet-Vidly-20210409085806_log.ldf
+Vidly/App_Data/aspnet-Vidly-20210409085806.mdf

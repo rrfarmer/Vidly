@@ -17,7 +17,7 @@ else
         <tr>
             <th>Customer</th>
             <th>Membership Type</th>
-            <thDelete></thDelete>
+            <th>Delete</th>
         </tr>
         </thead>
         <tbody>
@@ -38,7 +38,9 @@ else
 @section scripts
 {
     <script>
-        $(document).ready(function() {
+        $(document).ready(function () {
+            $("#customers").DataTable();
+
             $("#customers").on("click", ".js-delete", function () {
                 var button = $(this);
 
