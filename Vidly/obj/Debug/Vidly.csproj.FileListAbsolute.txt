@@ -136,3 +136,4 @@ C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhone.resources
