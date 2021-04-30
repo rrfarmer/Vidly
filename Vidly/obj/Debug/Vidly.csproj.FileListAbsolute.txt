@@ -137,3 +137,8 @@ C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyRe
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhone.resources
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Glimpse.Ado.dll
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Glimpse.Core.dll
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Glimpse.EF6.dll
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Glimpse.Mvc5.dll
