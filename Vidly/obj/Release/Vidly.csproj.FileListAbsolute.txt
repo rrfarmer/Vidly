@@ -76,3 +76,4 @@ C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Release\Vidly.csproj.GenerateResour
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Release\Vidly.dll
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Release\Vidly.pdb
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Release\Vidly.Migrations.AddRental.resources
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Release\Vidly.Migrations.AddMovieStock.resources
