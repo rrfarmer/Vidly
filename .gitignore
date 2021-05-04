@@ -84,3 +84,6 @@ obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
 Vidly/App_Data/aspnet-Vidly-20210409085806_log.ldf
 Vidly/App_Data/aspnet-Vidly-20210409085806.mdf
 Vidly/App_Start/Startup.Auth.cs
+Vidly/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Vidly/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Vidly/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
