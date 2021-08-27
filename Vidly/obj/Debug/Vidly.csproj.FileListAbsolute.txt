@@ -130,6 +130,7 @@ C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.Initial.resources
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\VM\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources

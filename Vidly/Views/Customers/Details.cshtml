@@ -10,8 +10,8 @@
 <ul>
     <li>Membership Type: @Model.MembershipType.MembershipName</li>
     
-        @if (Model.Bithdate.HasValue)
+        @if (Model.Birthdate.HasValue)
         {
-            <li>Birthdate: @Model.Bithdate.Value.Date.ToShortDateString()</li>
+            <li>Birthdate: @Model.Birthdate.Value.Date.ToShortDateString()</li>
         }
 </ul>
